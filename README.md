@@ -11,4 +11,7 @@ flask login panel
 * go to this link http://localhost:5000/install
 * click on `install` button
 
+<hr>
+#### username : admin
+#### password : 123456789
 ### Good Luck :)
